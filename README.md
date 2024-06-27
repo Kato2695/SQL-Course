@@ -55,7 +55,7 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 ```
-[Raw results of the above query](sql_project\3_CSVs\1_top_jobs_by_pay.csv)
+[Raw results of the above query](sql_project/3_CSVs/1_top_jobs_by_pay.csv)
 
 Here is a breakdown of the top data analyst jobs in 2023:
 
@@ -227,7 +227,7 @@ ORDER BY
 LIMIT
     25;
 ```
-[Raw results of the above query](sql_project\3_CSVs\5_optimal_skills.csv)
+[Raw results of the above query](sql_project/3_CSVs/5_optimal_skills.csv)
 
 ![alt text](Assets/5_optimal_skills.png)
 
