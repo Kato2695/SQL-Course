@@ -27,7 +27,7 @@ For this project, i utilised the following tools:
 - **Git & GitHub**: Allows me to version control and share my SQL scripts. 
 - **Excel**: Chosen data visualisation tool.
 
-# The analysis
+# The Analysis
 
 Each query I worked on in this project was designed to investigate specific aspects of the data analyst job market. Here is how I approached each question:
 
