@@ -13,7 +13,7 @@ All data is from this [SQL Course](https://www.lukebarousse.com/sql).
 
 1. What are the top paying data analyst jobs?
 2. What skills are required for these top paying jobs?
-3. What skills are most in demand for data analyst?
+3. What skills are most in demand for a data analyst?
 4. Which skills are associated with higher salaries?
 5. What are the most optimal skills to learn?
 
