@@ -31,7 +31,3 @@ INNER JOIN skills_job_dim sjd ON tpj.job_id = sjd.job_id
 INNER JOIN skills_dim sd ON sjd.skill_id = sd.skill_id
 ORDER BY
     salary_year_avg DESC;
-
-/* 
-RESULTS
-- SQL is the number 1 skill for the top 10 highest paid jobs for a Data Analyst
